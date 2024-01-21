@@ -1,4 +1,4 @@
-# Stock Price Forecasting with Exponential Smoothing: Project Summary
+# Stock Price Forecasting with Exponential Smoothing
 
 ## Introduction
 
